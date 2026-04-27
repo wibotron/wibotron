@@ -6,7 +6,7 @@ I’m currently studying Informatics in Telkom University, focusing on Data Scie
 * Also as an Informatics student, building a back-end of software utilizing best practice and collaboration with my colleague has been my other primary routine.
 * Some things still need to get figured out in order to overcome the black box, but I'm always enjoying the process with the guitar and coffee i have.
 * *"Surpass your limits. Right here. Right now"* ~ Captain Yami.
-
+* Email: achmadbaihaqie9@gmail.com
 ---
 
 ### Tech Stack
