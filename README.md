@@ -5,7 +5,7 @@ I’m currently studying Informatics in Telkom University, focusing on Data Scie
 * My routine falls within exploring AI and Machine Learning fields through the **[math & algorithm]** behind it and also through **[research, competition, & fun project]**.
 * Also as an Informatics student, building a back-end of software utilizing best practice and collaboration with my colleague has been my other primary routine.
 * Some things still need to get figured out in order to overcome the black box, but I'm always enjoying the process with the guitar and coffee i have.
-* *"Surpass your limits. Right here. Right now"* ~ Captain Yami $–$ Black Clover.
+* *"Surpass your limits. Right here. Right now"* ~ Captain Yami.
 
 ---
 
