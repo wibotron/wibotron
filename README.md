@@ -21,4 +21,3 @@ I’m currently studying Informatics in Telkom University, focusing on Data Scie
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=flat&logo=Quora&logoColor=white)](https://id.quora.com/profile/Achmad-Baihaqie-Wibowo)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/baihaqieachmad)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Mr_Wibotron/)
