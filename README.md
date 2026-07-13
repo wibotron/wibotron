@@ -23,3 +23,4 @@ I’m currently studying Informatics in Telkom University, focusing on Data Scie
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/baihaqieachmad)
 [![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-155397?style=flat&logo=stackexchange&logoColor=white)](https://datascience.stackexchange.com/users/194275/baihaqie)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/a_baihaqie_w)
