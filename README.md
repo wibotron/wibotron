@@ -18,9 +18,10 @@ I’m currently studying Informatics in Telkom University, focusing on Data Scie
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 ### More
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/wibotron)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/baihaqieachmad)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@achmadbaihaqie9)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=flat&logo=Quora&logoColor=white)](https://id.quora.com/profile/Achmad-Baihaqie-Wibowo)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/baihaqieachmad)
 [![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-155397?style=flat&logo=stackexchange&logoColor=white)](https://datascience.stackexchange.com/users/194275/baihaqie)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/a_baihaqie_w)
