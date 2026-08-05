@@ -2,7 +2,7 @@
 
 I’m currently studying Informatics in Telkom University, focusing on Data Science and Intelligent Systems (AI).
 
-* My routine falls within exploring AI and Machine Learning fields through the **[math & algorithm]** behind it and also through **[research, competition, teaching, & fun project]**.
+* My routine falls within exploring AI fields through the **[math & algorithm]** behind it and also through **[research, competition, teaching, & fun project]**.
 * Building a back-end of software utilizing best practice and collaboration with my colleague has been my other primary routine.
 * Some things still need to get figured out in order to overcome the black box, but I'm always enjoying the process with the guitar and coffee i have.
 * Email: achmadbaihaqie9@gmail.com
