@@ -4,7 +4,7 @@ I’m currently studying Informatics in Telkom University, focusing on Data Scie
 
 * I explore AI by diving deep into its math and algorithms, applying them through research, competitions, teaching, and hands-on projects.
 * Building a back-end of software utilizing best practice and collaboration with my colleague has been my other primary routine.
-* Some things still need to get figured out in order to overcome the black box, but I'm always enjoying the process with the guitar and coffee i have.
+* Some things still need to get figured out in order to overcome the black box, but I'm always enjoying the process with the guitar (🎸) and coffee (☕) i have.
 * Email: achmadbaihaqie9@gmail.com
 ---
 
@@ -21,7 +21,7 @@ I’m currently studying Informatics in Telkom University, focusing on Data Scie
 <!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) -->
 
 ### More
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmad-baihaqie-wibowo-5028b2284/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/wibotron)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/baihaqieachmad)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@achmadbaihaqie9)
