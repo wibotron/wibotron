@@ -4,21 +4,21 @@ I’m currently studying Informatics in Telkom University, focusing on Data Scie
 
 * I explore AI by diving into its math and algorithms, applying them through research, competitions, teaching, and hands-on projects.
 * Building a back-end of software utilizing best practice and collaboration with my colleague has been my other primary routine.
-* Some things still need to get figured out in order to overcome the black box, but I'm always enjoying the process with the guitar [🎸] and coffee [☕] i have.
+* Some things still need to get figured out in order to overcome the black box, but I'm always enjoying the process with the guitar and coffee i have :smile:.
 * Email: achmadbaihaqie9@gmail.com
 ---
 
 ### Tech & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Lean](https://img.shields.io/badge/Lean-2C3E50?style=flat)
+![Lean 4](https://img.shields.io/badge/Lean_4-2C3E50?style=flat&logo=lean&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=flat&logo=latex&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=4BMB76)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=flat&logo=latex&logoColor=white)
 
 ### More
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmad-baihaqie-wibowo-5028b2284/)
