@@ -1,9 +1,8 @@
-# Hello, I'm [Baihaqie | Haqie]
+# Hello, I'm Haqie (Pronounced: _Hah-kee_)
 
 I’m currently studying Informatics in Telkom University, focusing on Data Science and Intelligent Systems (AI).
 
 * I explore AI by diving into its math and algorithms, applying them through research, competitions, teaching, and hands-on projects.
-* Building a back-end of software utilizing best practice and collaboration with my colleague has been my other primary routine.
 * Some things still need to get figured out in order to overcome the black box, but I'm always enjoying the process with the guitar and coffee i have :smile:
 * Email: achmadbaihaqie9@gmail.com
 ---
